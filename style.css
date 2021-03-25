@@ -1,0 +1,20 @@
+h1 {
+    background-color:dimgray;
+    border: 5px solid dimgray;
+}
+
+img{ border:5px solid black;
+    border-radius: 40px;    
+}
+
+
+
+.header{
+    background-color: #ff000000;
+display : flex;
+justify-content : space-between;
+}
+
+body {
+    background-color: blue;
+}
